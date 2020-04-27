@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "name":"Tusa",
+        "singer":"Karol G",
+        "year":2019,
+        "genre":"regeton"
+    },
+    {
+        "id":2,
+        "name":"A esa",
+        "singer":"Daniela Darcourt",
+        "year":2020,
+        "genre":"salsa"
+    }
+]
